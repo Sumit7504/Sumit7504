@@ -17,7 +17,7 @@ I like turning real problems into working products, from hiring platforms to sec
 [Show Image ](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)  
 [Show Image](https://skillicons.dev/icons?i=git,github,docker,aws)  
 
-ML & CV: Scikit-Learn · YOLOv8 · NumPy · Feature Engineering
+ML & CV: Scikit-Learn · YOLOv8 · NumPy · Feature Engineering  
 Security: JWT · RBAC · Behavioral Biometrics
 
 🚀 Featured Projects
