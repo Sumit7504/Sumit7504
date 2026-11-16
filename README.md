@@ -33,37 +33,51 @@ I enjoy turning real-world problems into working products, from recruitment plat
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
-
+### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
 </p>
 
-**Frontend Development**
+`SQL`
 
+### 🎨 Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
-**Backend & Databases**
+`React Router`
 
+### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Tools & Cloud**
+`RESTful APIs` · `Socket.IO`
 
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-**Machine Learning & Computer Vision**
+`Mongoose`
 
-`Scikit-Learn` · `YOLOv8` · `NumPy` · `Feature Engineering`
+### 🤖 AI/ML & Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,opencv" />
+</p>
 
-**Security & Authentication**
+`Random Forest` · `Feature Engineering` · `YOLOv8` · `Object Detection` · `NumPy`
 
-`JWT` · `Role-Based Access Control (RBAC)` · `Behavioral Biometrics`
+### 🔐 Authentication & Security
+
+`JWT` · `RBAC` · `Behavioral Biometrics`
+
+### 🔧 Tools & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
+
+`Swagger` · `Joblib`
 
 ---
 
